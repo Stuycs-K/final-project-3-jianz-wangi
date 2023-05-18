@@ -1,6 +1,6 @@
 # Work Log
 
-## GROUP MEMBER 1
+## Ziying Jian
 
 ### date x
 
@@ -11,11 +11,10 @@ info
 info
 
 
-## GROUP MEMBER 2
+## Ivina Wang
 
-### date x
-
-info
+### 5/18/23
+worked on the presentation- the introduction and formatting
 
 ### date y
 
