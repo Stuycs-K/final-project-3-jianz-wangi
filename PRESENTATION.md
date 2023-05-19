@@ -7,21 +7,27 @@ A **Transposition Cipher** scrambles the order of the characters in the plaintex
 <br>
 
 ### **History**
+Transposition ciphers were originally invented by the ancient Greeks using the a tool, called the **scytale**.
+Now, we've simplified the process to using pen and paper.
+
+
+<!-- image -->
 
 <br>
 
 ### **How it Works** 
 rail fence cipher rows and columns    
 
+
+
 **Advantages:**  
-- simple
-- easy to encode on paper
-- a
+- simple and easy to encode
+- don't need a program
 
 **Disadvantages:**
 - weak, can be easily brute forced
-- limitation of key = length of the message
-- a
+- limitation of key = half the length of the message
+- letter frequencies are the same as unencrpted messages
 
 <!-- **Encode** 
 
