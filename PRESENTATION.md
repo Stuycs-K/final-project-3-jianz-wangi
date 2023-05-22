@@ -21,13 +21,22 @@ Using the Rail Fence cipher, we can reproduce the same encryption message as the
 
 ### **How it Works** 
 
+Let's work through how the Rail Fence works!
+
 Message: Cybersecurity is fun!
-Ciphertext: ???
+
+Key length = 3
+
+| c |   |   |   | r |   |   |   | u |   |   |   | y |   |   |   | u |   |   |
+|:-:|---|---|---|:-:|---|---|---|:-:|---|---|---|:-:|---|---|---|:-:|---|---|
+|   | y |   | e |   | s |   | c |   | r |   | t |   | i |   | f |   | n |   |
+|   |   | b |   |   |   | e |   |   |   | i |   |   |   | s |   |   |   | - |
+
 
 
 **Advantages:**  
 - simple and easy to encode
-- don't need a program
+- can be done by hand
 
 **Disadvantages:**
 - weak, can be easily brute forced
