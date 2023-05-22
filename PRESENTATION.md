@@ -16,7 +16,9 @@ Now, we've simplified the process to using pen and paper.
 <br>
 
 ### **How it Works** 
-rail fence cipher rows and columns    
+
+Message: Cybersecurity is fun!
+Ciphertext: ???
 
 
 

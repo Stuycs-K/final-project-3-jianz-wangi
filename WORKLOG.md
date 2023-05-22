@@ -2,9 +2,9 @@
 
 ## Ziying Jian
 
-### date x
+### date 05-19
 
-info
+Updated README.md according to the assignment protocol
 
 ### date y
 
