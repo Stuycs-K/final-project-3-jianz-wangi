@@ -25,9 +25,9 @@ Using the Rail Fence cipher, we can reproduce the same encryption message as the
 
 Let's work through how the Rail Fence works!
 
-plaintext: `cybersecurity is fun!`
+Plaintext: `cybersecurity is fun!`
 
-key = `3`
+Key = `3`
 
 | c |   |   |   | r |   |   |   | u |   |   |   | y |   |   |   | u |   |   |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -38,32 +38,68 @@ For this cipher, the key is the # of rows we create in our table. Then each char
 
 To get our ciphertext, we start from the top left corner and read of each letter from left to right, top to bottom.
 
-ciphertext: `cruyuyescrtifnbeis`
+Ciphertext: `cruyuyescrtifnbeis`
 
 <br>
 
-What happens if we change the key = `4` with the same plaintext?
+What happens if we increase the Key = `5` ?
 
-| c |   |   |   |   |   | e |   |   |   |   |   | y |   |   |   |   |   | - |
+| c |   |   |   |   |   |   |   | u |   |   |   |   |   |   |   | u |   |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|   | y |   |   |   |   |   | c |   | r |   |   |   |   |   | f |   | n |
+|   |   | b |   |   |   | e |   |   |   | i |   |   |   | s |   |   |   |
+|   |   |   | e |   | s |   |   |   |   |   | t |   | i |   |   |   |   |
+|   |   |   |   | r |   |   |   |   |   |   |   | y |   |   |   |   |   |
+
+The columns in our table has remain the same, but our rows have increased to 5!
+
+Ciphertext: `cuuycrfnbeisestiry`
+
+Now let's double the key!! (Key = 10)
+
+| c |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | - |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|   | y |   |   |   | s |   | c |   |   |   | t |   | i |   |   |   | n |   |
-|   |   | b |   | r |   |   |   | u |   | i |   |   |   | s |   | u |   |   |
-|   |   |   | e |   |   |   |   |   | r |   |   |   |   |   | f |   |   |   |
+|   | y |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | n |   |
+|   |   | b |   |   |   |   |   |   |   |   |   |   |   |   |   | u |   |   |   
+|   |   |   | e |   |   |   |   |   |   |   |   |   |   |   | f |   |   |   |
+|   |   |   |   | r |   |   |   |   |   |   |   |   |   | s |   |   |   |   |
+|   |   |   |   |   | s |   |   |   |   |   |   |   | i |   |   |   |   |   |
+|   |   |   |   |   |   | e |   |   |   |   |   | y |   |   |   |   |   |   |
+|   |   |   |   |   |   |   | c |   |   |   | t |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   | u |   | i |   |   |   |   |   |   |   |   |   
+|   |   |   |   |   |   |   |   |   | r |   |   |   |   |   |   |   |   |   |
 
-The columns in our table has remain the same, but our rows have increased to 4!
 
-ciphertext: `ceyysctinbruisuerf`
+Ciphertext: `cynbuefrssieyctuir`
+
+<br>
+
+What do you notice about the ciphertext now?
+
+Because the Key is so big, every other letter of the Plaintext is the same as the Ciphertext.
+
+<br>
+
+Based off of this, what will happen if the Key > Plaintext?
+
+Plaintext = Ciphertext !!
 
 <br>
 
 **Advantages:**  
-- simple and easy to encode
-- can be done by hand
+- Simple and easy to encode
+- Doesn’t require specialized software
+- Primarily used to teach 
 
 **Disadvantages:**
-- weak, can be easily brute forced
-- limitation of key = half the length of the message
-- letter frequencies are the same as unencrpted messages
+- Weak and very vulnerable to a variety of attacks (i.e. brute force, known-plaintext attack, etc.)
+- Not effective for longer messages
+- Letter frequencies do not change; the same as the unencrypted messages
+- The key has severe limitations; Must be less than half the length of the message
+
+<br>
+
+How do we encrypt this?
 
 <!-- **Encode** 
 
