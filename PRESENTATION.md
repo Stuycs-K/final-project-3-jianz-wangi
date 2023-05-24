@@ -51,11 +51,11 @@ What happens if we increase the Key = `5` ?
 |   |   |   | e |   | s |   |   |   |   |   | t |   | i |   |   |   |   |
 |   |   |   |   | r |   |   |   |   |   |   |   | y |   |   |   |   |   |
 
-The columns in our table has remain the same, but our rows have increased to 5!
-
 Ciphertext: `cuuycrfnbeisestiry`
 
-Now let's double the key!! (Key = 10)
+We get a different ciphertext! The message and columns in our table have remained the same, but our Key was changed to 5, so our rows have also been increased to 5.
+
+Now let's try doubling the Key!! (Key = 10)
 
 | c |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | - |
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
@@ -69,18 +69,17 @@ Now let's double the key!! (Key = 10)
 |   |   |   |   |   |   |   |   | u |   | i |   |   |   |   |   |   |   |   |   
 |   |   |   |   |   |   |   |   |   | r |   |   |   |   |   |   |   |   |   |
 
-
 Ciphertext: `cynbuefrssieyctuir`
 
 <br>
 
-What do you notice about the ciphertext now?
+What do you notice about the ciphertext?
 
-Because the Key is so big, every other letter of the Plaintext is the same as the Ciphertext.
+Because the Key is so big, every other letter of the Ciphertext is the same as the Plaintext.
 
 <br>
 
-Based off of this, what will happen if the Key > Plaintext?
+Based off of this situation, what will happen if the Key is greater than the length of Plaintext?
 
 Plaintext = Ciphertext !!
 
@@ -99,7 +98,7 @@ Plaintext = Ciphertext !!
 
 <br>
 
-How do we encrypt this?
+How do we encode this process?
 
 <!-- **Encode** 
 

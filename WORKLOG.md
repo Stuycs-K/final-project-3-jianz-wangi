@@ -10,17 +10,23 @@ Finished README according to assignment protocals
 
 Worked on Presentation and started Encode algo
 
+### 5/23/23
+Worked on Encode algo
+
 
 ## Ivina Wang
 
 ### 5/18/23
 
-worked on the presentation- the introduction and some formatting
+Worked on the presentation- the introduction and some formatting
 
 ### 5/19/23
 
-continued working on presentation- history section
+Continued working on presentation- history section
 
 ### 5/22/23
 
-continued working on presentation- how it works
+Continued working on presentation- how it works
+
+### 5/23/23
+Continued working on presentation
