@@ -3,7 +3,14 @@
 In this project, we'll introduce the mechanics of the rail fence cipher, it's historical context, and go into the computational encode and decode algorithm. 
 
 ## Directions to Access
-In the directory ```Encode``` and ```Decode```, you'll find the encode and decode algorithms respectively written in Python. There are also test cases, which you can run using the Makefile.
+In the directory ```Algorithms```, you'll find the encode and decode algorithms respectively written in Python. There are test codes hard-coded into these files, but you can also input your own messages to encode/decode!
+
+Enter the Algorithms directory
+```cd Algorithms``
+
+Run this command in your Terminal
+```make encode ARGS="<Insert your message here> <Key Num>"```
+
 
 ## Links
 [Homework](https://github.com/Stuycs-K/final-project-3-jianz-wangi/blob/main/HOMEWORK.md)
