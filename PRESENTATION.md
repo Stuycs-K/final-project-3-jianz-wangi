@@ -23,7 +23,7 @@ Using the Rail Fence cipher, we can reproduce the same encryption message as the
 
 ### **How it Works** 
 
-Let's work through how the Rail Fence works!
+Let's work through how the Rail Fence works!!
 
 Plaintext: `cybersecurity is fun!`
 
@@ -99,12 +99,16 @@ Plaintext = Ciphertext !!
 <br>
 
 How do we encode this process?
+```
+psuedo
+```
 
-<!-- **Encode** 
+Decode?
+```
+psuedo
+```
 
-**Decode** -->
-
-<!-- insert demo here too(?) -->
+<!-- insert code demo here too -->
 
 <br>
 
