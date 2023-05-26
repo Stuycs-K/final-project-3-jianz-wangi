@@ -29,10 +29,10 @@ Plaintext: `cybersecurity is fun!`
 
 Key = `3`
 
-| c |   |   |   | r |   |   |   | u |   |   |   | y |   |   |   | u |   |   |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|   | y |   | e |   | s |   | c |   | r |   | t |   | i |   | f |   | n |   |
-|   |   | b |   |   |   | e |   |   |   | i |   |   |   | s |   |   |   | - |
+| c |   |   |   | r |   |   |   | u |   |   |   | y |   |   |   | u |   |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|   | y |   | e |   | s |   | c |   | r |   | t |   | i |   | f |   | n |
+|   |   | b |   |   |   | e |   |   |   | i |   |   |   | s |   |   |   |
 
 For this cipher, the key is the # of rows we create in our table. Then each character from the plaintext is written diagonally down until you reach the bottom of the key, then you work diagonally up, until you hit the first row again and continnue this pattern until the last letter in your plaintext. This creates the zig zag/rail fence pattern.
 
@@ -57,17 +57,17 @@ We get a different ciphertext! The message and columns in our table have remaine
 
 Now let's try doubling the Key!! (Key = 10)
 
-| c |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | - |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
-|   | y |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | n |   |
-|   |   | b |   |   |   |   |   |   |   |   |   |   |   |   |   | u |   |   |   
-|   |   |   | e |   |   |   |   |   |   |   |   |   |   |   | f |   |   |   |
-|   |   |   |   | r |   |   |   |   |   |   |   |   |   | s |   |   |   |   |
-|   |   |   |   |   | s |   |   |   |   |   |   |   | i |   |   |   |   |   |
-|   |   |   |   |   |   | e |   |   |   |   |   | y |   |   |   |   |   |   |
-|   |   |   |   |   |   |   | c |   |   |   | t |   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |   | u |   | i |   |   |   |   |   |   |   |   |   
-|   |   |   |   |   |   |   |   |   | r |   |   |   |   |   |   |   |   |   |
+| c |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+|   | y |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   | n |
+|   |   | b |   |   |   |   |   |   |   |   |   |   |   |   |   | u |   |   
+|   |   |   | e |   |   |   |   |   |   |   |   |   |   |   | f |   |   |
+|   |   |   |   | r |   |   |   |   |   |   |   |   |   | s |   |   |   |
+|   |   |   |   |   | s |   |   |   |   |   |   |   | i |   |   |   |   |
+|   |   |   |   |   |   | e |   |   |   |   |   | y |   |   |   |   |   |
+|   |   |   |   |   |   |   | c |   |   |   | t |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   | u |   | i |   |   |   |   |   |   |   |   
+|   |   |   |   |   |   |   |   |   | r |   |   |   |   |   |   |   |   |
 
 Ciphertext: `cynbuefrssieyctuir`
 

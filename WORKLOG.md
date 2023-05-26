@@ -17,7 +17,7 @@ Worked on Encode algo
 Worked on Encode algo
 
 ### 5/25/23
-Worked on Encode algo
+Finished on Encode algo.
 
 
 
@@ -25,7 +25,7 @@ Worked on Encode algo
 
 ### 5/18/23
 
-Worked on the presentation- the introduction and some formatting
+Started working on the presentation- the introduction and some formatting
 
 ### 5/19/23
 
@@ -42,4 +42,4 @@ Continued working on presentation
 Continued working on presentation
 
 ### 5/25/23
-Continued working on presentation
+Finished working on (most of) presentation. Started Decode algo.
