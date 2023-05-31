@@ -17,8 +17,7 @@ Worked on Encode algo
 Worked on Encode algo
 
 ### 5/25/23
-Finished on Encode algo.
-
+Finished on Encode algo. Organized Algorithms, created makefile and decode.py.
 
 
 ## Ivina Wang
@@ -42,4 +41,7 @@ Continued working on presentation
 Continued working on presentation
 
 ### 5/25/23
-Finished working on (most of) presentation. Started Decode algo.
+Finished working on presentation. Started Decode algo.
+
+### 5/26/23
+Finished Decode algo.

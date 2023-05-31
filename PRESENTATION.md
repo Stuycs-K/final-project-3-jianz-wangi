@@ -98,18 +98,14 @@ Plaintext = Ciphertext !!
 
 <br>
 
-How do we encode this process?
-```
-psuedo
-```
+**How do we encode this process?**
 
-Decode?
-```
-psuedo
-```
+DEMO ON BOARD =)
 
-<!-- insert code demo here too -->
+<!-- insert code demo here -->
+
+<!-- link to slides -->
 
 <br>
 
-### **Homework:**
+### **Homework?**
