@@ -25,6 +25,8 @@ Using the Rail Fence cipher, we can reproduce the same encryption message as the
 
 Let's work through how the Rail Fence works!!
 
+The Rail fence cipher takes in 2 inputs, the plaintext that we are encrypting and the number of rails (or key) used during encryption.
+
 Plaintext: `cybersecurity is fun!`
 
 Key = `3`
@@ -98,11 +100,11 @@ Plaintext = Ciphertext !!
 
 <br>
 
+<!-- possible optimizations/ -->
+
 **How do we encode this process?**
 
-DEMO ON BOARD =)
-
-<!-- insert code demo here -->
+DEMO ON BOARD!!
 
 <!-- link to slides -->
 

@@ -8,8 +8,9 @@ In the directory ```Algorithms```, you'll find the encode and decode algorithms 
 Enter the Algorithms directory
 ```cd Algorithms``
 
-Run this command in your Terminal
+Run this make command in your Terminal to encode/decode a message
 ```make encode ARGS="<Insert your message here> <Key Num>"```
+```make decode ARGS="<Insert your message here> <Key Num>"```
 
 
 ## Links

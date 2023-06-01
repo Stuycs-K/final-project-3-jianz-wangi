@@ -45,3 +45,6 @@ Finished working on presentation. Started Decode algo.
 
 ### 5/26/23
 Finished Decode algo.
+
+### 5/31/23
+Added homework, small edits to readme
