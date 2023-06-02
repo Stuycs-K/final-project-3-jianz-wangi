@@ -104,10 +104,10 @@ Plaintext = Ciphertext !!
 
 **How do we encode this process?**
 
-DEMO ON BOARD!!
+*DEMO ON BOARD!!*
 
 <!-- link to slides -->
 
 <br>
 
-### **Homework?**
+### **Homework!!**

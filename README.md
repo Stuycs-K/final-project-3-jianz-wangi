@@ -1,5 +1,5 @@
 # Rail Fence Cipher
-## by Ziying Jian and Ivina Wang
+## by Capybaras: Ziying Jian and Ivina Wang
 In this project, we'll introduce the mechanics of the rail fence cipher, it's historical context, and go into the computational encode and decode algorithm. 
 
 ## Directions to Access
