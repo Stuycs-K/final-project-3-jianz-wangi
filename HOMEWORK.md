@@ -19,6 +19,6 @@ Decrypt the following message with the key = 3. What is the plaintext?
 
 ### #3 Bruteforce
 
-Try to brute force the following message. What is the plaintext? key?
+Try to brute force the following message. What is the plaintext? Key? [ show/write your process ]
 
 `YTOODHODUNEGJFUKYOOEB`
