@@ -16,3 +16,9 @@ Encrypt the following message with the key = 5. What is the ciphertext?
 Decrypt the following message with the key = 3. What is the plaintext?
 
 `TIERESEHSSHDCYTDESGITEPMA`
+
+### #3 Bruteforce
+
+Try to brute force the following message. What is the plaintext? key?
+
+`YTOODHODUNEGJFUKYOOEB`
