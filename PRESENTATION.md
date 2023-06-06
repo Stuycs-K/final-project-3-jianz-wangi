@@ -5,8 +5,6 @@ A **Substitution Cipher** replaces characters from the plaintext into other char
 
 A **Transposition Cipher** scrambles the order of the characters in the plaintext. Characters remain the same.
 
-<br>
-
 ### **History**
 Transposition ciphers were originally invented by the ancient Greeks using the a tool, called the **scytale**.
 
