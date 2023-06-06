@@ -7,17 +7,19 @@
 Finished README according to assignment protocals
 
 ### 5/22/23
-
 Worked on Presentation and started Encode algo
 
 ### 5/23/23
-Worked on Encode algo
+Worked on encode algorithm
 
 ### 5/24/23
-Worked on Encode algo
+Worked on encode algorithm
 
 ### 5/25/23
-Finished on Encode algo. Organized Algorithms, created makefile and decode.py.
+Finished the encode algorithm. Organized Algorithms, created makefile and decode.py.
+
+### 5/31/23
+Updated README with formatting changes
 
 
 ## Ivina Wang
