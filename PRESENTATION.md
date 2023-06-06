@@ -6,7 +6,7 @@ A **Substitution Cipher** replaces characters from the plaintext into other char
 A **Transposition Cipher** scrambles the order of the characters in the plaintext. Characters remain the same.
 
 
-### **History**
+## **History**
 Transposition ciphers were originally invented by the ancient Greeks using the a tool, called the **scytale**.
 
 ![image of scytale](https://github.com/Stuycs-K/final-project-3-jianz-wangi/blob/main/scytale.png)
@@ -19,7 +19,7 @@ Now, we've simplified the process to paper.
 Using the Rail Fence cipher, we can reproduce the same encryption message as the scytale if the number of coils on the rod is the same as the number of rows in the Rail Fence cipher.
 
 
-### **How it Works** 
+## **How it Works** 
 
 Let's work through how the Rail Fence works!!
 
