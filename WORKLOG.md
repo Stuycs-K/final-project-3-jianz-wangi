@@ -21,6 +21,8 @@ Finished the encode algorithm. Organized Algorithms, created makefile and decode
 ### 5/31/23
 Updated README with formatting changes
 
+### 6/5/23
+Collated resources in WORKLOG.md
 
 ## Ivina Wang
 
@@ -50,3 +52,11 @@ Finished Decode algo.
 
 ### 5/31/23
 Added homework, small edits to readme
+
+### Resources
+[Geeks for Geeks](https://www.google.com/url?q=https://www.geeksforgeeks.org/rail-fence-cipher-encryption-decryption/&sa=D&source=docs&ust=1686027049172084&usg=AOvVaw08KrXuOKeYoxMayPZKoOUN)
+[Trinity College](http://www.cs.trincoll.edu/~crypto/historical/railfence.html)
+[Interactive Maths](https://crypto.interactive-maths.com/rail-fence-cipher.html)
+[[PDF] International Journal of Scientific & Engineering Research](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjDmqPxvPz-AhUfkIkEHTApDKUQFnoECDAQAQ&url=https%3A%2F%2Fosf.io%2Fpreprints%2Finarxiv%2Fh5jnz%2Fdownload&usg=AOvVaw26RHmQMAjHuc2IWu9k2d_o)
+
+
