@@ -75,7 +75,7 @@ Ciphertext: `cynbuefrssieyctuir`
 
 What do you notice about the ciphertext?
 
-Because the Key is so big, every other letter of the Ciphertext is the same as the Plaintext.
+Because the key is so big, every other letter of the ciphertext is the same as the plaintext.
 
 
 
@@ -85,25 +85,21 @@ Plaintext = Ciphertext !!
 
 
 
-**Advantages:**  
+### **Advantages:**  
 - Simple and easy to encode
 - Doesn’t require specialized software
 - Primarily used to teach 
 
-**Disadvantages:**
+### **Disadvantages:**
 - Weak and very vulnerable to a variety of attacks (i.e. brute force, known-plaintext attack, etc.)
 - Not effective for longer messages
 - Letter frequencies do not change; the same as the unencrypted messages
 - The key has severe limitations; Must be less than half the length of the message
 
 
-
-<!-- possible optimizations/ -->
-
-**How do we encode/decode this process?**
+### **How do we encode/decode this process?**
 
 *DEMO ON BOARD!!*
-
 
 [Homework](https://github.com/Stuycs-K/final-project-3-jianz-wangi/blob/main/HOMEWORK.md)
 
